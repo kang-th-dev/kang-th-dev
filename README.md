@@ -1,7 +1,12 @@
 # [Profile]
+>The original GitHub ID is TaehyunDev.<br>
+>I made another GitHub ID for a new start.<br>
+>I have to go higher. I can do it!
+
+
+``` 🚩 welcome to 'new world' ```
 #
 
-> 🚩 welcome to 'new world' 
 
 ![](https://github-readme-stats.vercel.app/api?username=kang-th-dev&count_private=true)
 
