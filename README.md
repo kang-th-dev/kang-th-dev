@@ -1,4 +1,6 @@
-# [Profile]
+# Profile
+
+### Introduce myself 😉
 >I made another GitHub ID for a new start.<br>
 >I have to go higher. I can do it!
 
