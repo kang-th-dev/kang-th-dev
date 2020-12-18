@@ -1,5 +1,4 @@
 # [Profile]
->The original GitHub ID is TaehyunDev.<br>
 >I made another GitHub ID for a new start.<br>
 >I have to go higher. I can do it!
 
